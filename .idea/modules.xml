@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Springboot-Microservices-all-in-one.iml" filepath="$PROJECT_DIR$/.idea/Springboot-Microservices-all-in-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Create-Address-Microservice/address-service.iml" filepath="$PROJECT_DIR$/Create-Address-Microservice/address-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Configure-Spring-Cloud-API-Gateway/api-gateway.iml" filepath="$PROJECT_DIR$/Configure-Spring-Cloud-API-Gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Create-Config-Server/config-server.iml" filepath="$PROJECT_DIR$/Create-Config-Server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creating-Eureka-Service/eureka-server.iml" filepath="$PROJECT_DIR$/Creating-Eureka-Service/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student-Microservice-In-Action/student-service.iml" filepath="$PROJECT_DIR$/Student-Microservice-In-Action/student-service.iml" />
+    </modules>
+  </component>
+</project>
